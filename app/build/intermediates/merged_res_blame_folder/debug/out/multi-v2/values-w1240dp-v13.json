@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.ZulfaFirdaus_10120067_IF2.app-mergeDebugResources-51:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "com.AbdullahTsaniIqomuddin_10120171_IF5.app-mergeDebugResources-51:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\KULIAH\\Semester 6\\apb\\Note10120067\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "E:\\Study\\AKB\\UAS-AKB-IF5-10120171\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

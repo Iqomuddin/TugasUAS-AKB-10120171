@@ -7,13 +7,7 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import java.util.List;
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+
 public class InfoFragmentAdapter extends FragmentStatePagerAdapter {
 
     private List<Fragment> fragmentList;
@@ -37,9 +31,9 @@ public class InfoFragmentAdapter extends FragmentStatePagerAdapter {
 }
 
 /**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
+ * MataKuliah  : Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
  */

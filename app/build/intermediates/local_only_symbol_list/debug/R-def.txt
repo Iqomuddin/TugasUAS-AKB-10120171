@@ -29,9 +29,9 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
 drawable icon_notes
+drawable iqomuddin
 drawable item_selector
 drawable kotak_nama
-drawable zulfa
 font poppins_semibold
 font scriptmt
 font sedan

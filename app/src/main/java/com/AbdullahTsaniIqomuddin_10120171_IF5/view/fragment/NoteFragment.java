@@ -26,13 +26,7 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+
 public class NoteFragment extends Fragment  {
 
     private MainActivity mainActivity;
@@ -135,9 +129,9 @@ public class NoteFragment extends Fragment  {
 }
 
 /**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
+ * MataKuliah  : Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
  */

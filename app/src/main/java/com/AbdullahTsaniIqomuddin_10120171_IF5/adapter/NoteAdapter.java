@@ -11,13 +11,7 @@ import com.AbdullahTsaniIqomuddin_10120171_IF5.model.Note;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+
 public class NoteAdapter extends FirebaseRecyclerAdapter<Note, NoteAdapter.NoteViewHolder> {
 
     private OnItemClickListener itemClickListener;
@@ -75,9 +69,9 @@ public class NoteAdapter extends FirebaseRecyclerAdapter<Note, NoteAdapter.NoteV
 }
 
 /**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
  * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
  */

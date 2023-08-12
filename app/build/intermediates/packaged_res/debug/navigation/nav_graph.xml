@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.MainActivity"
+        android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.MainActivity"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_info_slide1">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.SecondFragment"
+        android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 

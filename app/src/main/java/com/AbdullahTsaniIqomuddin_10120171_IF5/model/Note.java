@@ -3,13 +3,7 @@ package com.AbdullahTsaniIqomuddin_10120171_IF5.model;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+
 public class Note implements Parcelable {
 
     String title;
@@ -92,9 +86,9 @@ public class Note implements Parcelable {
 }
 
 /**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
  * MataKuliah  : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
  */

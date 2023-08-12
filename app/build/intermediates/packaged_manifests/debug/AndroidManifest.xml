@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ZulfaFirdaus_10120067_IF2"
+    package="com.AbdullahTsaniIqomuddin_10120171_IF5"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,10 +12,10 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
-        android:name="com.ZulfaFirdaus_10120067_IF2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.ZulfaFirdaus_10120067_IF2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -26,23 +26,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.EditNoteActivity"
+            android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.EditNoteActivity"
             android:exported="false" />
         <activity
-            android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.RegisterActivity"
+            android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.LoginActivity"
+            android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.LoginActivity"
             android:exported="false" />
         <activity
-            android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.AddNoteActivity"
+            android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.AddNoteActivity"
             android:theme="@style/Theme.Toolbar.ToolBarActivity" />
-        <activity android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.MainActivity" />
+        <activity android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.MainActivity" />
         <activity
-            android:name="com.ZulfaFirdaus_10120067_IF2.view.activity.SplashActivity"
+            android:name="com.AbdullahTsaniIqomuddin_10120171_IF5.view.activity.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -100,7 +99,13 @@
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 
@@ -126,7 +131,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.ZulfaFirdaus_10120067_IF2.firebaseinitprovider"
+            android:authorities="com.AbdullahTsaniIqomuddin_10120171_IF5.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -137,7 +142,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.ZulfaFirdaus_10120067_IF2.androidx-startup"
+            android:authorities="com.AbdullahTsaniIqomuddin_10120171_IF5.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppins_semibold"
-        android:text="Di Aplikasi Mommento Memory"
+        android:text="Di Aplikasi Iqomuddins"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -109,7 +109,7 @@
             android:id="@+id/tvRegis"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Belum Punya Akun?" />
+            android:text="Buat Akun?" />
 
         <TextView
             android:id="@+id/btnRegis"

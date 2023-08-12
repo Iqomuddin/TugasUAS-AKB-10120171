@@ -19,13 +19,7 @@ import com.AbdullahTsaniIqomuddin_10120171_IF5.adapter.InfoFragmentAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
- */
+
 public class InfoFragment extends Fragment {
     private ViewPager viewPager;
     private PagerAdapter pagerAdapter;
@@ -60,9 +54,9 @@ public class InfoFragment extends Fragment {
 }
 
 /**
- * NAMA    : Zulfa Firdaus
- * NIM     : 10120067
- * Kelas   : IF-2
- * MataKuliah : Aplikasi Komputasi Bergerak
- * Tugas Pengganti UTS Aplikasi Komputasi Bergerak
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
+ * MataKuliah  : Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
  */

@@ -75,3 +75,10 @@ public class RegisterActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
+/**
+ * NAMA    : Abdullah Tsani Iqomuddin
+ * NIM     : 10120171
+ * Kelas   : IF-5
+ * MataKuliah  : Aplikasi Komputasi Bergerak
+ * Tugas Pengganti UAS Aplikasi Komputasi Bergerak
+ */
